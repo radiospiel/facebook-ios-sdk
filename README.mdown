@@ -1,3 +1,9 @@
+Important note:
+===========================
+
+For a project of mine I need a facebook iOS SDK **without** the builtin JSON parser. This is the facebook sdk cloned and the JSON parts removed.
+
+
 Facebook iOS SDK
 ===========================
 
